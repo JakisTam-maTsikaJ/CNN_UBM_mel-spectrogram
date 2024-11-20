@@ -1,3 +1,6 @@
+W projekcie uczę model UBM (w tym przypadku CNN) wykorzystując mel-spektrogramy.<br>
+<br>
+
 Plik 1 - przygotowanie danych do stworzenia modelu UBM oraz budowanie samego modelu UBM. <br>
 Plik 2 - obliczanie embeddingów nagrań, które stanowiły zbiór treningowy dla modelu UBM. <br>
 Plik 3 - tworzenie LDA, które będzie wykorzystane jako postprocessing. <br>
